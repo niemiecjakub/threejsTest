@@ -9,6 +9,7 @@ import {OrbitControls} from "drei"
 
 
 function App() { 
+  // eslint-disable-next-line
   const [dimentions, setDimentions] = useContext(DimentionsContext)
 
   return (
