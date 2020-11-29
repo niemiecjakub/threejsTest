@@ -1,1 +1,0 @@
-https://www.thomann.de/pl/casefactory_suitcase_live.html?fbclid=IwAR1afdV0kHT8pyBcmEew5P7OL7dYFLsMoAuQDTWOmZdT6KocAeluHkTUk_c
